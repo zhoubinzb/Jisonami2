@@ -53,7 +53,7 @@
 		<dependency>
 			<groupId>com.oracle</groupId>
 			<artifactId>ojdbc6</artifactId>
-			<version>${oracle6.version}</version>
+			<version>11.2.0.1.0</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
